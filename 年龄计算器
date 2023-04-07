@@ -1,0 +1,4 @@
+print('这是一个年龄计算器')
+age=float(input('请输入你十年前的年龄：'))
+print("你现在一定"+str(age+10)+"岁了")
+print("nb")
